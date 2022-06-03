@@ -18,9 +18,13 @@ git branch celia20220603
 
 3.4 – Haz un commit en tu rama
 ~~~
+git checkout celia20220603
 git add .
 git commit -m "added text to readme"
 ~~~
+
+## Como en la primera ronda no subí la rama a remoto, introduzco esta línea desde la rama celia20220603 para repetir el ejercicio.
+
 
 3-5 – Fusiona tu rama con master
 ~~~
